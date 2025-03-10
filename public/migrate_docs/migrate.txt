@@ -1,0 +1,282 @@
+---introduction: 
+
+Hello there!  
+
+I'm Janos Szlatenyi ['jɑni slɑ'tɛnji] , but please, call me Jani. It is easier for both of us. Welcome to my personal website.
+
+This site is a space for me to organize my thoughts, process my frustrations, and explore ideas that capture my interest. It serves as a tool for self-reflection and personal growth, allowing me to crystalize my thinking through the act of writing.
+
+Here, you'll find a collection of my musings, reflections, and explorations. Some may be raw and unfiltered, others more polished and refined. But all of them represent a piece of my journey, a snapshot of my mental landscape at a given moment in time.
+
+While this site is primarily for my own benefit, I welcome you to explore it if you wish. Perhaps in my words, you'll find something that resonates with your own experiences, or gain a new perspective on a familiar topic.
+
+Thank you for visiting,
+
+ Jani
+ 
+
+ ---CV: 
+ Jani Szlatenyi
+Tech-savvy Economist | Data Engineering & Analytics Lead | Technology Management
+
+El Cerrito, CA 94530  
+
+(909) 343-3108 | jani@szlatenyi.net | www.szlatenyi.net
+
+Summary
+Experienced technology and data professional with a strong background in economics, risk and performance analytics, and financial technology. Over 15 years of experience contributing to innovation and business growth in the financial sector, with progressively increasing responsibilities. Strong contributor to MSCI's remarkable growth over the past 15 years, as the company expanded its workforce by over 550% and grew its market capitalization to more than $40 billion. During this period, the analytics business experienced more than tenfold growth.
+
+Instrumental in building and developing global teams, executing on location and technology strategy, building out global presence in both data operations and project work, including direct support for high-profile clients. Deep expertise in financial markets data and technical vendor management, analytics, and risk management systems. Proven track record of leading cross-functional teams, managing engineering heavy and research driven complex projects, and bridging technical and business aspects in various initiatives across the firm. Demonstrated success in:
+
+Contributing to the transformation of data architectures to support cutting-edge financial analytics products
+
+Leading and scaling global data operations and engineering teams to deliver high-impact solutions in risk management and portfolio analysis, hiring people with exceptional carrier growth
+
+Driving operational efficiency and data integrity improvements across global organizations
+
+Leveraging comprehensive understanding of financial markets data to create innovative solutions and competitive advantages
+
+Executing strategic initiatives, create and harness synergies between data, research and engineering teams
+
+Providing direct support and solutions to high-profile clients, ensuring satisfaction and fostering long-term relationships
+
+Combining deep technical knowledge with strong business acumen and participative leadership to translate complex financial data challenges into actionable insights and strategic opportunities. Expertise spans equity, fixed income, multi-asset class, and private equity data, enabling a holistic approach to financial technology solutions across diverse market segments.
+
+Core Competencies
+Leadership | Technology Management | Financial Technology (FinTech)| Product Management | Data Architecture | Risk Management | Technical Project/Program Management
+
+Professional Experience
+MSCI, Berkeley
+Executive Director / Technology and Data (January 2020 - July 2024)
+Coordinated across IT, Program Management, and Data organizations on various analytics projects
+
+Acted as proxy of Product (BU) and represented their priorities in the various engineering organizations, while understand and explain boundaries of feasibility to desired solutions to the BU
+
+Ensure adequate data support and coordination across analytics, cross report to BU
+
+Working on the technology transformation of the engineering organization, part of the engineering leadership
+
+Create Root Cause Analyses (RCAs) and implement RCA-driven improvements, focusing on data integrity
+
+Devops transformation in data engineering
+
+Support new product initiatives and cross-product compatibility efforts between BarraOne and Riskmanager, ESGM and BarraOne, Index and BarraOne
+
+Bridge application development with data development and support their major development initiatives and their operation (Data Operation and AppMgmt/SRE oversight)
+
+Lead or actively drive multiple reference data (terms and conditions) related projects, including:
+
+Global entity master development
+
+Issuer to issue connection identification and tracking
+
+Analyzing and addressing coverage gaps of instruments across platforms and formulate tactical remediation
+
+Improve and maintain data products consumed by analytics (Curve Replacements, Timeliness, PA)
+
+Business Impact:
+
+Improved data integrity and system stability especially around timeliness, enablement of same day reporting
+
+Contributed significantly to enhancing cross-compatibility between BarraOne and Riskmanager, particularly in data coverage, laying groundwork for potential future integration
+
+Enhanced data architecture to support cutting-edge financial analytics products, harmonized timeseries (derived curve usage) across platforms
+
+Drove operational efficiency and data integrity improvements across global organizations, training and coaching both data and engineering teams
+
+Facilitated better data linkages and coverage, enabling more robust analytics and risk management solutions focusing on factor exposure assignment and selection
+
+Vice President / Data Content Services - 3rd Party Benchmark (January 2016 - January 2020)
+Led global team responsible for 3rd party portfolio content digestion, normalization, QA, shipments and its corresponding engineering work in 3 locations, manager of managers.
+
+Successfully grew the team from 9 to 20+ people, in addition to 8-10 data engineer cross reported to me.
+
+completed Agile transformation with IT and Business analyst integration to delivery trains, formed two cross locational Agile teams with dedicated scrum masters
+
+2 individual contributor VP (one later ED), and 2 team lead VP were grown from analyst/associate hires through 2009-2020
+
+Managed data from 35+ major benchmark vendors on various interfaces
+
+Enhanced the portfolio store systems (that I have built before) with quality assurance and more lean operations
+
+Worked with application engineering on more efficient portfolio consumption and data model in the application space, and experiment with various technologies (SAP Hana, Mongo, Hadoop)
+
+Onboarded and reconciled Lipper, Morningstar Fund data, and Capco (Markit) ETFs
+
+Enabled ESG business by providing high-quality fund data for derived products (Fundmetrics)
+
+Supported MSCI Index in creating co-branded MAC indices (WMA - Markit/MSCI MAC index)
+
+Provided content and data expertise for Performance Attribution improvements (Term effect, transaction, return calculation and report orchestration)
+
+Business Impact:
+
+Led, grew and run a robust engineering and data team
+
+Expanded benchmark and Fund coverage, significantly enhancing MSCI's market position in analytics. The benchmark coverage grew with 100x.
+
+Drove and contribute to Performance Attribution and helped transforming into a multi-million dollar business line, successfully competing with industry leaders like FactSet or Point
+
+Enabled the launch of new ESG products, contributing to growth in ESG-related revenues
+
+Attempt of monetization of our benchmark products, and 300,000$ save on replacing general data vendors to original data sources
+
+Vice President / Data Content Services - Data Integration and transformation projects (January 2014 - January 2016)
+Relocated to Berkeley, California
+
+Led global project groups processing pass-through and derived analytics content
+
+Acted as chief of staff for many local engineering leads in managing Budapest/Monterrey development teams
+
+Architected data delivery and integration systems and coordinated the execution across data and application engineering
+
+Spearheaded efforts to reduce technology debt, continuing initiatives from previous roles
+
+Executed API strategy, enhancing data accessibility and integration capabilities
+
+Business Impact:
+
+Streamlined data integration processes, reducing data delivery times. What was a 6 month effort for an analyst on a dedicated environment turned to be a 2 hour lunch break with integrated checks and transparent processes.
+
+Implemented new data architecture, enabling the launch of new analytics products. The same RMD and RMD API system enabled the FactorLab client facing offering and other product initiatives
+
+Improved data accuracy, and identified quality and validation criteria to better fit content to the purpose in the benchmark and factor model space. End-to-End testing paradigm was implemented, client facing quality guidelines were published
+
+New data systems and API strategy enabled faster time-to-market for analytics products especially factor model data
+
+Sr. Associate / Data Content Services (January 2009 - January 2014)
+Established Budapest Data team presence, building various data teams across the company
+
+Led EMEA Data operation for Fixed-income pass-through and derived model data
+
+Served as level 2 client service, collaborating with product management and research
+
+Created new fixed income reference database, significantly enhancing data management capabilities
+
+Led the decommissioning of legacy systems, reducing operational complexity and costs
+
+Played a key role in integration efforts following the acquisition of RiskMetrics, harmonizing data processes, engineering and data organizations and systems
+
+Initiated and drove technology debt reduction initiatives, setting the foundation for future improvements (TPP, Sybase, Agile transformation before agile transformation)
+
+Business Impact:
+
+Successfully built and scaled the Budapest data team from a team from 1 to 30+ people in 5 years, lead 3 various local/global teams and participated in the creation of 10 different data and engineering groups
+
+Performed over 250 interviews across different organizations in data and engineering across the globe
+
+Helped the growth of over 20 different teams in Mexico, Manilla, Budapest and Mumbai
+
+Actively participated in 2 office moves, while the office expanded from 30 to 350 people
+
+Created high-precision portfolio store for Performance Attribution, laying the foundation for a multi million dollar future business line
+
+Improved EMEA operation satisfaction scores through enhanced client service and data quality (especially for the APAC region)
+
+New fixed income reference database (GFI+) improved data accuracy and reduced processing time
+
+Successful decommissioning of legacy Barra data and research systems, reduced annual maintenance and license costs (SAS deco - FI)
+
+Integration of RiskMetrics data systems achieved significant process alignment within 18 months post-acquisition
+
+Technology debt reduction initiatives decreased system downtime and improved overall performance
+
+CIB Bank (SP-Intesa), Budapest
+Risk Modeling Analyst (August 2007 - December 2008)
+Developed scorecards and risk analytic reports
+
+Prepared regular provision reporting for Assets and Liabilities committee for SME and retail segments
+
+Created fraud detection and 3rd party risk assessment solutions for internal compliance
+
+Validated and developed IRB models for BASEL II (PD/EAD)
+
+Business Impact:
+
+Improved risk assessment accuracy, leading to more effective capital allocation
+
+Developed BASEL II compliant models, ensuring regulatory compliance and improving the bank's risk management capabilities
+
+Cetelem (BnP Paribas), Budapest
+Risk Analyst, Statistician (April 2005 - August 2007)
+Developed behavioral, collection, and granting scorecards
+
+Built SAS-based models for the risk department and BI reporting tools
+
+Maintained C and Cobol based decision making frameworks, provide new functions and insights analytics of the model behaviors, participated in improving the compiler for expert system metalanguage
+
+Implement and test new scorecards in the expert systems and deploy them to production
+
+Regular reports to CRO on back tests results and risk forecasts
+
+Business Impact:
+
+Implemented new scorecards that improved the balance between default rates and approval rates
+
+Developed BI tools that improved decision-making speed for risk management processes
+
+PricewaterhouseCoopers/Landwell Global, Budapest
+Intern (May 2003 - September 2003)
+Coordinated legal compliance and supported decision-making for tax optimization by offshore companies
+
+Education
+Pecsi Tudomanyegyetem, Pecs
+MSc in Economics (September 2000 - May 2006)  
+
+Thesis: Prospect Theory - The way of economics to a more human-centric consumer model
+
+Rend-Szam/Kando Kalman Foiskola, Budapest
+BSc equivalent in IT Development - System Architecture (September 1994 - May 2000)  
+
+Enrolled parallel with High-school, with special permission.
+
+Technical Skills
+Programming: Linux, C, Pascal, Python, SQL, Git | Statistical Software: SAS, Stata, R, Octave | Office Tools: Microsoft Office Suite, Atlassian | Visualization Tools: Spotfire, PowerBI, Tableau
+
+Data Modeling: Conceptual and practical in schema-on-read and schema-on-write systems | Design Methodologies: Jackson, UML | Project Management: Waterfall, Agile
+
+Cloud Platforms: Azure, Google Cloud | Databases: Oracle, MS SQL, Sybase
+
+Languages
+Hungarian (Native) | English (Advanced)
+
+
+-- intro :
+Honest self-definition is very difficult, if not impossible. Whether intentionally or subconsciously, we try to influence how others perceive us based on how we want to think about ourselves or how we want others to think about us. This self-image is much less solid and sound than one might imagine. Our self-image is far more volatile than we realize, depending on our mood, the target audience, and the goal we want to achieve with the introduction.
+
+Asking yourself "Who am I really?" in a closed room where you want to answer to yourself - where you are your own judge, jury, defender, and prosecutor at the same time - that's called therapy. It's supervised and run by professionals for a reason.
+
+I've decided to write in two different personas. Below, you'll find my "LinkedIn-style" introduction, with vague and flashy short statements (on the left), and a "bar translator" version of how I would describe it in a bar after a couple of beers to a friend of a friend who I've just been introduced to (on the right). 
+
+LinkedIn
+
+Hungarian born resourceful economist and finance expert with strong IT background and polymathic tendencies. 
+
+Extensive leadership and management experience.
+
+Tipsy (Bar) Translator
+
+So, I was born in Hungary during the communism. Initially, I wanted to be a biochemist, but I discovered there was no faculty of biochemistry in my country at that time - only chemistry with a specialization in biology. I didn't want to pursue that path.
+
+On the other hand, I got my first computer in 1985 and spent my adolescence hacking, coding, and playing on various computers. I attended a math-intensive high school and had the opportunity to earn a college degree in IT after graduation with just one extra year of study. 
+
+Nevertheless, I still wanted to pursue a regular degree afterwards, feeling that IT alone wouldn't be sufficient for me. My parents were well-renowned economists, and following this family heritage, I developed an interest in management science (from my mother), finance (from my stepfather), and cognitive psychology and philosophy (from my father).
+
+My brain is like a sponge, I remember the text of my 1st grader public speaking context, I play the piano, I can do origami, you name it, I’m surprisingly versatile. (I mean surprisingly for other people usually). Accordingly people usually find me entertaining and interesting. (and of course I can be a real asshole if I’m bored or annoyed usually by ignorance, malevolence or stupidity). I also like movies, do you want to talk about movies? 
+
+I've been doing this shit for almost 20 years, man. I've hired a lot of people and fought a lot of battles. But I've always been better at hiring good people than claiming credit for their work. I'm much better at managing down than up. I think my teams generally liked me, and it was great to see junior analysts grow into smart, mature senior leaders or experts. I've never really cared what my management thought or wanted; as long as the business and clients were happy, and I felt I was doing something meaningful, something I could be proud of, I was satisfied. 
+
+Out of the box thinker.
+
+More to come…
+
+Many people find me weird. I have a deep voice, a strong accent. I usually tell people that if in my childhood somebody tells me that the W is called double U on English for a reason, and it has nothing to do with the letter V - on Hungarian W is called double V - I would not have problem today ordering a glass of water today.
+
+
+Since my young adulthood I was never the smartest in my environment, but I was always acknowledged and respected to be smart. Just like I was never the best athlete in anything, but I was better in everything than the vast majority. And I tried a lot of things and I was interested in everything. Once my primary schoolmate said, that today I would be given medication for hyperactive, ADHD symptoms, and I was lucky that at that time these were not available conditions. She might had a point. My parents decided to keep me busy, not that I needed too much pushing. Maybe, sometimes for the piano. 
+
+I like solving problems and doing stuff that has some product. This involves heavy experimentation with pretty much everything. If there is a room, and there is a button, at some point I will push it. My favorite toy was Lego. 
+
+People also said that I’m resourceful. I’m good with tools. I’m very creative. (sometimes funny)
+
+But I don’t know, I don’t really think about this, I think about this at the moment. Do you want to talk about it? 
